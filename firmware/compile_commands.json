@@ -1,0 +1,177 @@
+[
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/CDC.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/HardwareSerial.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/HardwareSerial0.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/HardwareSerial1.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/HardwareSerial2.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/HardwareSerial3.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/IPAddress.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/PluggableUSB.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/Print.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/Stream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/Tone.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/USBCore.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/leonardo/FrameworkArduino/WInterrupts.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/WMath.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/WString.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/abi.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/leonardo/FrameworkArduino/hooks.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/FrameworkArduino/new.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/leonardo/FrameworkArduino/wiring.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/leonardo/FrameworkArduino/wiring_analog.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/leonardo/FrameworkArduino/wiring_digital.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-as -mmcu=atmega32u4 -o .pio/build/leonardo/FrameworkArduino/wiring_pulse.S.o /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/leonardo/FrameworkArduino/wiring_pulse.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/leonardo/FrameworkArduino/wiring_shift.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/lib464/HID/HID.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -I/home/mehdi/.platformio/packages/framework-arduino-avr/libraries/HID/src -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo /home/mehdi/.platformio/packages/framework-arduino-avr/libraries/HID/src/HID.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/.platformio/packages/framework-arduino-avr/libraries/HID/src/HID.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/lib5a1/Keyboard/Keyboard.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -I.pio/libdeps/leonardo/Keyboard/src -I/home/mehdi/.platformio/packages/framework-arduino-avr/libraries/HID/src -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo .pio/libdeps/leonardo/Keyboard/src/Keyboard.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/Dev/openstreamdeck/firmware/.pio/libdeps/leonardo/Keyboard/src/Keyboard.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/lib5a1/Keyboard/KeyboardLayout_da_DK.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -I.pio/libdeps/leonardo/Keyboard/src -I/home/mehdi/.platformio/packages/framework-arduino-avr/libraries/HID/src -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo .pio/libdeps/leonardo/Keyboard/src/KeyboardLayout_da_DK.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/Dev/openstreamdeck/firmware/.pio/libdeps/leonardo/Keyboard/src/KeyboardLayout_da_DK.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/lib5a1/Keyboard/KeyboardLayout_de_DE.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -I.pio/libdeps/leonardo/Keyboard/src -I/home/mehdi/.platformio/packages/framework-arduino-avr/libraries/HID/src -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo .pio/libdeps/leonardo/Keyboard/src/KeyboardLayout_de_DE.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/Dev/openstreamdeck/firmware/.pio/libdeps/leonardo/Keyboard/src/KeyboardLayout_de_DE.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/lib5a1/Keyboard/KeyboardLayout_en_US.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -I.pio/libdeps/leonardo/Keyboard/src -I/home/mehdi/.platformio/packages/framework-arduino-avr/libraries/HID/src -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo .pio/libdeps/leonardo/Keyboard/src/KeyboardLayout_en_US.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/Dev/openstreamdeck/firmware/.pio/libdeps/leonardo/Keyboard/src/KeyboardLayout_en_US.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/lib5a1/Keyboard/KeyboardLayout_es_ES.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -I.pio/libdeps/leonardo/Keyboard/src -I/home/mehdi/.platformio/packages/framework-arduino-avr/libraries/HID/src -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo .pio/libdeps/leonardo/Keyboard/src/KeyboardLayout_es_ES.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/Dev/openstreamdeck/firmware/.pio/libdeps/leonardo/Keyboard/src/KeyboardLayout_es_ES.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/lib5a1/Keyboard/KeyboardLayout_fr_FR.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -I.pio/libdeps/leonardo/Keyboard/src -I/home/mehdi/.platformio/packages/framework-arduino-avr/libraries/HID/src -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo .pio/libdeps/leonardo/Keyboard/src/KeyboardLayout_fr_FR.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/Dev/openstreamdeck/firmware/.pio/libdeps/leonardo/Keyboard/src/KeyboardLayout_fr_FR.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/lib5a1/Keyboard/KeyboardLayout_it_IT.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -I.pio/libdeps/leonardo/Keyboard/src -I/home/mehdi/.platformio/packages/framework-arduino-avr/libraries/HID/src -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo .pio/libdeps/leonardo/Keyboard/src/KeyboardLayout_it_IT.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/Dev/openstreamdeck/firmware/.pio/libdeps/leonardo/Keyboard/src/KeyboardLayout_it_IT.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/lib5a1/Keyboard/KeyboardLayout_sv_SE.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -I.pio/libdeps/leonardo/Keyboard/src -I/home/mehdi/.platformio/packages/framework-arduino-avr/libraries/HID/src -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo .pio/libdeps/leonardo/Keyboard/src/KeyboardLayout_sv_SE.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/Dev/openstreamdeck/firmware/.pio/libdeps/leonardo/Keyboard/src/KeyboardLayout_sv_SE.cpp"
+    },
+    {
+        "command": "/home/mehdi/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/leonardo/src/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega32u4 -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_LEONARDO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -DUSB_VID=0x2341 -DUSB_PID=0x8036 \"-DUSB_PRODUCT=\\\"Arduino Leonardo\\\"\" -DUSB_MANUFACTURER=\\\"Arduino\\\" -Iinclude -I/home/mehdi/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src -I.pio/libdeps/leonardo/Keyboard/src -I/home/mehdi/.platformio/packages/framework-arduino-avr/libraries/HID/src -Ilib -Isrc -I/home/mehdi/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/mehdi/.platformio/packages/framework-arduino-avr/variants/leonardo src/main.cpp",
+        "directory": "/home/mehdi/Dev/openstreamdeck/firmware",
+        "file": "/home/mehdi/Dev/openstreamdeck/firmware/src/main.cpp"
+    }
+]
