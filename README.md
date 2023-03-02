@@ -2,6 +2,8 @@
 
 Open Source, do-it-yourself stream deck project for hackers and electronic enthusiasts.
 
+Stream Deck can include many push buttons. you will evantually able to assign hot keys, macros and commands to each one of them and run/invoke them after pressing.
+
 ## History
 
 This is a fun project I've dedicated my freetimes to. I use it as an accessible way to manage my virtual OBS camera I use in microsoft teams video calls and my online presense.
@@ -32,6 +34,10 @@ pio device monitor
 After uploading the firmware, make sure your pull-up resistor push buttons work correctly.
 
 ![breadboard diagram for arduino lenardo and push buttons](./static/diagram.png)
+
+### Integration with OBS studio
+
+For now, we can use OBS hotkey prefrences to match out boards keyboard instructions to invoke our desired action upon keypress events.
 
 ## TODOs and vision for this project
 In the future I will spend time implementing the following features:
